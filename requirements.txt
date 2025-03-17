@@ -1,0 +1,6 @@
+pyrogram
+PyPDF2
+reportlab
+pytesseract
+Pillow
+PyMuPDF
